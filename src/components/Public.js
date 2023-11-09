@@ -19,7 +19,7 @@ const Public = () => {
                 <br />
                 <p>
                     You can start testing by log in from the button at the end
-                    of page
+                    of page.
                 </p>
                 <br />
                 <p>Admin account</p>
